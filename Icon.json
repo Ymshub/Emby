@@ -1,56 +1,44 @@
 {
-"name":"Icon", 
-"description":"For Ymshow", 
+"name":"Emby Icon", 
+"description":"By AixSix", 
 "icons":
     [
-	{"name":"Emby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby.png"},
-	{"name":"Emby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Emby1.png"},
-	{"name":"Jellyfin", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Jellyfin.png"},
-	{"name":"Plex", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Plex.png"},
-	{"name":"Plex1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Plex1.png"},
+	{"name":"Emby", "url":"https://github.com/Ymshub/Emby/raw/Master/Emby.png"},
+	{"name":"Jellyfin", "url":"https://github.com/Ymshub/Emby/raw/Master/Jellyfin.png"},
+	{"name":"Plex", "url":"https://github.com/Ymshub/Emby/raw/Master/Plex.png"},
+
+	{"name":"1111", "url":"https://github.com/Ymshub/Emby/raw/Master/1111.png"},
         
 	{"name":"CcEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/CcEmby.png"},
-	{"name":"CharonTV", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/CharonTV.png"},
-	{"name":"CurlyMouse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/CurlyMouse.png"},
-	{"name":"CurlyMouse1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/CurlyMouse1.png"},
+	{"name":"Charon", "url":"https://github.com/Ymshub/Emby/raw/Master/Charon.png"},
 
 	{"name":"EmbyClub", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/EmbyClub.png"},
-	{"name":"EmbyClub1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/EmbyClub1.png"},
 
-	{"name":"Hxd", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Hxd.png"},
-	{"name":"Hxd1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Hxd1.png"},
-	{"name":"Hxd2", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Hxd2.png"},
+	{"name":"Hxd", "url":"https://github.com/Ymshub/Emby/raw/Master/Hxd.png"},
 
-	{"name":"lyrebird", "url":"https://raw.githubusercontent.com/chaizia/Profiles/master/faviconico/emby/Lyrebird.png"},
+	{"name":"Jms", "url":"https://github.com/Ymshub/Emby/raw/Master/Jms.png"},
+
+	{"name":"lyrebird", "url":"https://github.com/Ymshub/Emby/raw/Master/Lyrebird.png"},
 	    
-	{"name":"Magic", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Magic.png"},
-	{"name":"Magic1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Magic1.png"},
-	{"name":"Marmot", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Marmot.png"},
-	{"name":"MisakaF", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/MisakaF.png"},
-	{"name":"MisakaF1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/MisakaF1.png"},
-	{"name":"Misty", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Misty.png"},
-	{"name":"Misty+", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Misty+.png"},
-	{"name":"Mjj", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Mjj.png"},
+	{"name":"Magic", "url":"https://github.com/Ymshub/Emby/raw/Master/Magic.png"},
+	{"name":"Marmot", "url":"https://github.com/Ymshub/Emby/raw/Master/Marmot.png"},
+	{"name":"MisakaF", "url":"https://github.com/Ymshub/Emby/raw/Master/MisakaF.png"},
+	{"name":"Misty", "url":"https://github.com/Ymshub/Emby/raw/Master/Misty.png"},
+	{"name":"MJJ", "url":"https://github.com/Ymshub/Emby/raw/Master/MJJ.png"},
 
-	{"name":"NmEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/NmEmby.png"},
+	{"name":"NMEmby", "url":"https://github.com/Ymshub/Emby/raw/Master/NMEmby.png"},
 
-	{"name":"Paul", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Paul.png"},
-	{"name":"PiliPili", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/PiliPili.png"},
-	{"name":"Polo", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Polo.png"},
-	{"name":"Polo1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Polo1.png"},
-	{"name":"PornEmby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/PornEmby.png"},
+	{"name":"Paul", "url":"https://github.com/Ymshub/Emby/raw/Master/Paul.png"},
+	{"name":"PiliPili", "url":"https://github.com/Ymshub/Emby/raw/Master/PiliPili.png"},
+	{"name":"Polo", "url":"https://github.com/Ymshub/Emby/raw/Master/Polo.png"},
+	{"name":"Pornemby", "url":"https://github.com/Ymshub/Emby/raw/Master/Pornemby.png"},
 	
-	{"name":"Shufu", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Shufu.png"},
+	{"name":"Shufu", "url":"https://github.com/Ymshub/Emby/raw/Master/Shufu.png"},
 
-	{"name":"Temby", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Temby.png"},
-	{"name":"Temby1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Temby1.png"},
-	{"name":"Terminus", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Terminus.png"},
+	{"name":"Temby", "url":"https://github.com/Ymshub/Emby/raw/Master/Temby.png"},
+	{"name":"Terminus", "url":"https://github.com/Ymshub/Emby/raw/Master/Terminus.png"},
 
-	{"name":"ZhiPianRen", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ZhiPianRen.png"},
-	{"name":"ZhiPianRen1", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ZhiPianRen1.png"},
-	{"name":"ZhiPianRen2", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ZhiPianRen2.png"},
-
-	{"name":"1111", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/1111.png"},
+	{"name":"Zhipianren", "url":"https://github.com/Ymshub/Emby/raw/Master/ZhiPianRen.png"},
 
 	{"name":"Alist", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Alist.png"},
 	{"name":"Webdav", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Webdav.png"},
