@@ -40,23 +40,7 @@
 	{"name":"Temby", "url":"https://github.com/Ymshub/Emby/raw/Master/Temby.png"},
 	{"name":"Terminus", "url":"https://github.com/Ymshub/Emby/raw/Master/Terminus.png"},
 
-	{"name":"Zhipianren", "url":"https://github.com/Ymshub/Emby/raw/Master/ZhiPianRen.png"},
-
-	{"name":"Alist", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Alist.png"},
-	{"name":"Webdav", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Webdav.png"},
-        
-	{"name":"ALiYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/ALiYun.png"},
-	{"name":"BaiDuYun", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/BaiDuYun.png"},
-	{"name":"GoogleDrive", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/GoogleDrive.png"},
-	{"name":"OneDrive", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/OneDrive.png"},
-	{"name":"PikPak", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/PikPak.png"},
-	{"name":"Jikongjian", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Jikongjian.png"},
-	{"name":"Lvlian", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Lvlian.png"},
-	{"name":"Nas", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Nas.png"},
-	{"name":"Qunhui", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Qunhui.png"},
-
-	{"name":"Nplayer", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Nplayer.png"},
-	{"name":"Infuse", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Infuse.png"},
-	{"name":"Music", "url":"https://raw.githubusercontent.com/Softlyx/Fileball/main/FANG/Music.png"}
+	{"name":"Zhipianren", "url":"https://github.com/Ymshub/Emby/raw/Master/Zhipianren.png"},
+	    
     ]
 }
